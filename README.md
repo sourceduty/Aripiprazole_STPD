@@ -83,6 +83,8 @@ This reactor could also become a valuable tool for education and training. For m
 [Cancer](https://github.com/sourceduty/Cancer)
 <br>
 [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
