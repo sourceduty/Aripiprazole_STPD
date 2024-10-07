@@ -38,6 +38,10 @@ In summary, while a permanent partial agonist at dopamine D2 receptors could the
 Human trials would be essential to assess the safety, efficacy, and ethical implications of a permanent partial agonist at dopamine D2 receptors. Such a treatment would have irreversible effects on brain function, potentially impacting cognition, motivation, and long-term adaptability of care. Clinical trials could help evaluate long-term impacts, receptor desensitization, and potential risks, ensuring that safety protocols align with the complexities of treating evolving mental health conditions.
 
 #
+
+![Gonzo](https://github.com/user-attachments/assets/ccd3b5c7-127a-4e0b-8656-db781d0fffe7)
+
+#
 ### Related Links
 
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
