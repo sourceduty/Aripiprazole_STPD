@@ -79,6 +79,8 @@ The timeline to develop such a reactor is estimated at 6 to 10 years, given the 
 
 > Alex: "*Computational reactors could help to cure mental disorders.*"
 
+> "*I would specialize in medicine and health before any other science.*"
+
 #
 
 ![Gonzo](https://github.com/user-attachments/assets/ccd3b5c7-127a-4e0b-8656-db781d0fffe7)
