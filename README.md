@@ -38,6 +38,15 @@ In summary, while a permanent partial agonist at dopamine D2 receptors could the
 Human trials would be essential to assess the safety, efficacy, and ethical implications of a permanent partial agonist at dopamine D2 receptors. Such a treatment would have irreversible effects on brain function, potentially impacting cognition, motivation, and long-term adaptability of care. Clinical trials could help evaluate long-term impacts, receptor desensitization, and potential risks, ensuring that safety protocols align with the complexities of treating evolving mental health conditions.
 
 #
+### Simulating Human Trials
+
+Simulating the effects of a permanent partial agonist at dopamine D2 receptors with a computational model or “reactor” could provide valuable insights before human trials. Computational models allow researchers to explore the binding dynamics, receptor activation, and potential changes in receptor sensitivity over time, mimicking the behavior of brain systems under long-term partial agonism. By adjusting parameters like receptor density, dopamine availability, and agonist affinity, simulations can illustrate the effects on neural pathways and predict possible side effects, such as desensitization or downregulation.
+
+Furthermore, computational simulations can model different scenarios to test the adaptability of brain chemistry over time. For instance, researchers could simulate a gradual decrease in D2 receptor sensitivity, mirroring potential tolerance development, to understand how such changes might impact therapeutic efficacy. Simulations could also explore interactions with other neurotransmitters, giving a broader view of the neurochemical shifts associated with a permanent partial agonist. These models would enable researchers to predict outcomes and assess risks without exposing human subjects to irreversible effects, thus offering a preliminary safety evaluation.
+
+While computational models can’t fully replicate the complexity of the human brain, they can inform targeted experimental designs and refine hypotheses. This approach minimizes risks by allowing scientists to better understand long-term impacts on brain function, especially concerning cognitive and motor processes. It also allows for the testing of various scenarios, including those related to different psychiatric conditions, guiding more responsible and effective research toward a treatment that could, one day, proceed to human trials.
+
+#
 
 ![Gonzo](https://github.com/user-attachments/assets/ccd3b5c7-127a-4e0b-8656-db781d0fffe7)
 
