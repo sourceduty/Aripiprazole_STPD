@@ -98,7 +98,7 @@ Cost estimates for developing a computational reactor of this caliber would vary
 
 #
 
-![Gonzo](https://github.com/user-attachments/assets/ccd3b5c7-127a-4e0b-8656-db781d0fffe7)
+![Brain Powder](https://github.com/user-attachments/assets/0494e01b-ed42-416a-8cf6-a83f1b0788e1)
 
 #
 ### Related Links
