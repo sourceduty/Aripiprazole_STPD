@@ -68,6 +68,8 @@ In addition to initial development, personnel costs would be significant, requir
 
 > Alex: "*Computational reactors could help to cure mental disorders.*"
 
+> "*I'm estimating that building Computational Reactors would cost roughly $250 to $300 million USD, to help cure all or most of the known disorders.*"
+
 #
 
 ![Gonzo](https://github.com/user-attachments/assets/ccd3b5c7-127a-4e0b-8656-db781d0fffe7)
