@@ -92,7 +92,7 @@ Cost estimates for developing a computational reactor of this caliber would vary
 
 > "*$100,000 to $500,000 USD to cure my disorder (STPD) within 5 years.*"
 
-> "*This is promosing science and hope.*"
+> "*This is promising science and hope.*"
 
 #
 
