@@ -32,6 +32,10 @@ Furthermore, the development of a permanent partial agonist would require extens
 
 In summary, while a permanent partial agonist at dopamine D2 receptors could theoretically be developed, the irreversible nature of such a treatment raises substantial concerns about long-term safety, adaptability, and potential side effects. Current treatments favor reversible partial agonists like Aripiprazole, which provide a similar balancing effect on dopamine without the risks associated with permanent receptor binding. The ability to adjust treatment in response to individual needs is crucial for managing complex, evolving mental health conditions, and a permanent approach would limit this flexibility, making it a less viable option in clinical practice.
 
+#
+### Human Trials
+
+Human trials would be essential to assess the safety, efficacy, and ethical implications of a permanent partial agonist at dopamine D2 receptors. Such a treatment would have irreversible effects on brain function, potentially impacting cognition, motivation, and long-term adaptability of care. Clinical trials could help evaluate long-term impacts, receptor desensitization, and potential risks, ensuring that safety protocols align with the complexities of treating evolving mental health conditions.
 
 #
 ### Related Links
