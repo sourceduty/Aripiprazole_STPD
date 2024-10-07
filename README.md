@@ -1,4 +1,4 @@
-![Abilify](https://github.com/user-attachments/assets/51528696-e3f8-4785-9939-97d1911dbe06)
+![Medical](https://github.com/user-attachments/assets/28d860a9-9264-4e66-8626-1b5defe8c72c)
 
 > Scientific research for Aripiprazole and STPD.
 
@@ -10,6 +10,8 @@ Researchers continue to explore new methods, including personalized medicine and
 
 #
 ### Aripiprazole
+
+![Abilify](https://github.com/user-attachments/assets/51528696-e3f8-4785-9939-97d1911dbe06)
 
 The action of Aripiprazole is distinctive among antipsychotic medications due to its role as a partial agonist at dopamine D2 receptors and serotonin 5-HT1A receptors, while also acting as an antagonist at serotonin 5-HT2A receptors. This unique pharmacological profile allows Aripiprazole to modulate the activity of these neurotransmitter systems in a way that provides symptom relief without completely blocking receptor activity. As a partial agonist at dopamine D2 receptors, Aripiprazole stimulates these receptors to a moderate extent, rather than fully activating or completely inhibiting them. This means it can help reduce symptoms of psychosis, such as delusions and paranoia, by tempering excessive dopamine activity in certain brain regions, while still maintaining enough dopamine signaling to avoid some of the motor side effects associated with traditional antipsychotics. This partial agonist effect is particularly useful for schizophrenia and bipolar disorder, as it helps balance dopamine levels without causing the dopamine suppression that leads to side effects like extrapyramidal symptoms (EPS) or tardive dyskinesia.
 
