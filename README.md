@@ -48,7 +48,7 @@ While computational models can’t fully replicate the complexity of the human b
 
 #
 
-> Alex: "*Cancer seems more curable than mental health disorders.*"
+> Alex: "*Cancer seems to be more curable than mental health disorders.*"
 
 #
 
