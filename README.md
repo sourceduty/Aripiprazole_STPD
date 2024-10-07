@@ -92,6 +92,8 @@ Cost estimates for developing a computational reactor of this caliber would vary
 
 > "*$100,000 to $500,000 USD to cure my disorder (STPD) within 5 years.*"
 
+> "*This is promosing science and hope.*"
+
 #
 
 ![Gonzo](https://github.com/user-attachments/assets/ccd3b5c7-127a-4e0b-8656-db781d0fffe7)
