@@ -48,6 +48,10 @@ While computational models can’t fully replicate the complexity of the human b
 
 #
 
+Alex: "*Cancer seems more curable than mental health disorders.*"
+
+#
+
 ![Gonzo](https://github.com/user-attachments/assets/ccd3b5c7-127a-4e0b-8656-db781d0fffe7)
 
 #
