@@ -118,6 +118,11 @@ Cost estimates for developing a computational reactor of this caliber would vary
 [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[AI](https://github.com/sourceduty/AI)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
