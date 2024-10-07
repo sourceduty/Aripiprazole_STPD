@@ -66,7 +66,7 @@ In addition to initial development, personnel costs would be significant, requir
 
 #
 
-> Alex: "*Cancer seems to be more curable than mental health disorders.*"
+> Alex: "*Computational reactors could help to cure mental disorders.*"
 
 #
 
