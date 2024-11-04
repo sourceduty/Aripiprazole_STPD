@@ -96,7 +96,7 @@ Cost estimates for developing a computational reactor of this caliber would vary
 
 > "*This is promising science and hope.*"
 
-> "*Due to this disorder and a lack of car, I suffered more after being diagnosed, treated and released from a hospital.*"
+> "*Due to this disorder and a lack of care, I suffered more after being diagnosed, treated and released from a hospital.*"
 
 #
 
