@@ -98,6 +98,8 @@ Cost estimates for developing a computational reactor of this caliber would vary
 
 > "*Due to this disorder and a lack of care, I suffered more after being diagnosed, treated and released from a hospital.*"
 
+> "*There is a lack of care, I suffered more after being diagnosed, treated and released from a hospital in 2016, 2017, 2018, 2019, 2020 and into 2021.*"
+
 #
 
 ![Brain Powder](https://github.com/user-attachments/assets/0494e01b-ed42-416a-8cf6-a83f1b0788e1)
