@@ -96,6 +96,8 @@ Cost estimates for developing a computational reactor of this caliber would vary
 
 > "*This is promising science and hope.*"
 
+> "*Due to this disorder and a lack of car, I suffered more after being diagnosed, treated and released from a hospital.*"
+
 #
 
 ![Brain Powder](https://github.com/user-attachments/assets/0494e01b-ed42-416a-8cf6-a83f1b0788e1)
